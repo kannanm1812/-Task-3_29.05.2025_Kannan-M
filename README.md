@@ -41,8 +41,8 @@ To perform a basic vulnerability assessment using free tools and gain hands-on e
 ---
 
 ## 📷 Screenshots
-!Screenshot 1 
-!Screenshot 2
+!Screenshot_OpenVAS_Setup
+!Screenshot_Open VAS Scan Result
 
 ---
 
